@@ -2,7 +2,7 @@
 
 ## Context
 
-This is an academic project, asked us as a group work in the context of our first year of MSc in computer science, in the University of South Brittany
+This is an academic project, asked us as a group work in the context of our first year of MSc in computer science, in the University of South Brittany.
 
 ## Project Aim
 
@@ -28,7 +28,7 @@ GET : piaddress:port/gopigo/move/right
 
 Here is the interface you get in a navigator, which let you change the speed, start and stop the video, drive the robot, etc...
 
-
+![alt tag](https://github.com/theplatypus/GoPiGo_Java/blob/master/GoPiGo_J/interface.PNG?raw=true)
 
 ## Installation
 
