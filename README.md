@@ -32,7 +32,7 @@ Here is the interface you get in a navigator, which let you change the speed, st
 
 ## Installation
 
-Get the jar file, in the bin directory, and execute it with administrator rights (to listen on the port). Then, your raspberry is listening at your requests in the port #8080, or you can get the interface on the HTTP port (80).
+Get the jar file, in the bin directory, and execute it with administrator rights (to listen on the port). Then, your raspberry is listening at your requests on the port #8080, or you can get the interface on the HTTP port (80).
 
 ## API Reference
 
